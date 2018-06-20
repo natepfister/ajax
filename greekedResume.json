@@ -1,0 +1,224 @@
+{
+    "contactInfo": {
+        "name": "Aliquam Pacilisis",
+        "email": "pellentesqueornare@tempor.com",
+        "phone": "8016638572"
+    },
+
+    "qualifications": [
+        "Donec Nec, purus Cursus.",
+        "Curabitur in, Purus Quis-Lectus Consequat",
+        "Morbi, Suscipit, nec Purus Nulla.",
+        "Aliquam Sollicitudin, dui Consectetur Quisquam/Egestas",
+        "Cras et Urna Aliquam id Ornare Maximus"
+    ],
+
+    "accomplishments": [
+        {
+		"name":"Nullam Sit",
+		"accomplishment" : [
+			"Aenean libero felis porttitor nec aliquet ac vehicula non eros Praesent Nget nibh 15% erat maximus pharetra in.",
+			"In ac iaculis tortor Sed vel sem at Mauris Rhoncus malesuada Suspendisse eleifend massa ac quam tempus facilisis Nulla at malesuada lacus in lobortis 11% SEM."
+			]
+        },
+        {
+        "name":"Mauris Velit",
+        "accomplishment" : [
+            "Ut fringilla in ante Semper Cras ornare ET $1.5 sem felis sed facilisis diam finibus elementum vestibulum ut.",
+            "Vivamus rutrum porttitor enim id Imperdiet Morbi SED a $2.5 fermentum nisi ac feugiat quam etiam ut felis  eros tempor vestibulum sed ut."
+            ]
+        },
+        {
+        "name":"Perspiciatis Unde",
+        "accomplishment" : [
+            "Phasellus viverra iaculis tellus at finibus Dui Finibus non donec eleifend 38% faucibus tincidunt pellentesque pulvinar mi et diam dictum rhoncus in vitae."
+            ]
+        }
+    
+    ],
+
+    "employmentHistory": [
+        {
+            "employer": "Ante Nulla in Laoreet Dapibus ex Vulputate-Enim Suspendisse - VEL",
+            "duration": "Quisque 2017 leo Tellus",
+            "title": "Fusce Interdum Justo 2",
+            "description": "Vivamus Lacinia Est in Laoreet dui accumsan Ante Efficitur orci vitae. Tleifend tellus erat:",
+            "supportedApps": [
+                "Donec - Nam Sed Viverra Augue",
+                "Cursus - Mauris Iaculis",
+                "Odio - Morbi Rhoncus Elementum Sollicitudin",
+                "Auctor - Etiam At Vestibulum Libero",
+                "Cursus - Morbi Volutpat Magna",
+                "Justo Nam Sagittis",
+                "Pharetra VEL",
+                "Massa (Proin Sem Risus)",
+                "Fusce (Proin Sem Risus)",
+                "Augue (Curabitur Orci Massa)",
+                "Urna (Nunc Luctus Quam)",
+                "Euismod cras Varius (Pharetra Ullamcorper)",
+                "Auctor (Cras Ut Mattis Mauris)"
+            ],
+            "responsibilityDescription": "In vestibulum ante ipsum primis faucibus:",
+            "responsibilities": [
+                "Integer Tempor Eu",
+                "Etiam convallis consectetur, massa, at",
+                "Pharetra convallis consectetur, massa, at",
+                "Maecenas feugiat diam ac justo Elementum Accumsan aliquam ut sapien",
+                "Nam viverra consequat 190 felis vitae lacinia vestibulum"
+            ]
+        },
+        {
+            "employer": "Ante Nulla in Laoreet Dapibus ex Vulputate-Enim Suspendisse - VEL",
+            "duration": "Quisque 2016 leo Mattis 2017",
+            "title": "Vulputate 1",
+            "description": "Quisque Euismod massa mauris VEL Lodales ultricies arcu fermentum et Aenean. Porta placerat enim sed placerat nibh placerat.",
+            "supportedApps": [
+                "Donec - Nam Sed Viverra Augue",
+                "Cursus - Mauris Iaculis",
+                "Odio - Morbi Rhoncus Elementum Sollicitudin",
+                "Auctor - Etiam At Vestibulum Libero",
+                "Cursus - Morbi Volutpat Magna",
+                "Justo Nam Sagittis",
+                "Pharetra VEL",
+                "Massa (Proin Sem Risus)",
+                "Fusce (Proin Sem Risus)",
+                "Augue (Curabitur Orci Massa)",
+                "Urna (Nunc Luctus Quam)"
+            ],
+            "responsibilityDescription": "In vestibulum ante ipsum primis faucibus:",
+            "responsibilities": [
+                "Integer Tempor Eu",
+                "Etiam convallis consectetur, massa, at",
+                "Pharetra convallis consectetur, massa, at"
+            ]
+        },
+        {
+            "employer": "Rhoncus Cursus Sollicitudin - Curabitur Elementum",
+            "duration": "Proin 2015 et Luctus 2016",
+            "title": "Vulputate 1",
+            "description": "Quisque Euismod massa mauris VEL Lodales ultricies arcu fermentum et Aenean. Porta placerat enim sed placerat nibh placerat.",
+            "supportedApps": [
+                "Donec - Nam Sed Viverra Augue",
+                "Cursus - Mauris Iaculis",
+                "Odio - Morbi Rhoncus Elementum Sollicitudin",
+                "Auctor - Etiam At Vestibulum Libero",
+                "Cursus - Morbi Volutpat Magna",
+                "Justo Nam Sagittis",
+                "Pharetra VEL",
+                "Massa (Proin Sem Risus)",
+                "Fusce (Proin Sem Risus)",
+                "Augue (Curabitur Orci Massa)",
+                "Urna (Nunc Luctus Quam)"
+            ],
+            "responsibilityDescription": "In vestibulum ante ipsum primis faucibus:",
+            "responsibilities": [
+                "Integer Tempor Eu",
+                "Etiam convallis consectetur, massa, at",
+                "Pharetra convallis consectetur, massa, at"
+            ]
+        },
+        {
+            "employer": "Volutpat Orci Libero",
+            "duration": "Euismod 2014 et Mauris 2015",
+            "title": "Placerat Ultricies Iaculis",
+            "description": "Pellentesque pharetra risus quis nulla congue a luctus odio rutrum a Sed Diam Augue donec",
+            "responsibilityDescription": "Suspendisse tempor cursus:",
+            "responsibilities": [
+                "Sed ullamcorper nisl vulputate risus sollicitudin sed",
+                "Mauris vitae, tincidunt, metus cras",
+                "Risus  vitae, tincidunt, metus cras",
+                "Suspendisse suscipit nibh sit amet quam tempor, vitae porttitor arcu porta etiam accumsan euismod (hendrerit suspendisse quam risus auctor tristique fermentum)"
+            ]
+        },
+        {
+            "employer": "Congue Diam SED",
+            "duration": "Morbi 2011 eu Nisi 2012",
+            "title": "Aliquam, Rutrum Luctus",
+            "description": "Praesent in egestas ligula et V.S., Porttitor, Lectus Faucibus, Consequat Lacus, purus Ornare Velit (Non tempus Nisi) Erat Nec",
+            "responsibilityDescription": "Suspendisse tempor cursus:",
+            "responsibilities": [
+                "Curabitur tincidunt arcu a imperdiet volutpat mauris viverra risus quis",
+                "Maecenas feugiat diam ac justo Elementum Accumsan aliquam U.T. sapien",
+                "Nam viverra consequat 190 felis vitae lacinia vestibulum",
+                "Cras aliquet neque at nunc pharetra hendrerit ut Quis Volutpat ligula nunc ullamcorper lobortis ultrices phasellus imperdiet"
+            ]
+        },
+        {
+            "employer": "Aenean Venenatis",
+            "duration": "Nulla 2010 arcu Luctus 2011",
+            "title": "Proin Tellus",
+            "description": "Etiam varius dapibus 90 justo; vel pulvinar quisque iaculis, placerat erat sed porttitor velit tincidunt",
+            "responsibilityDescription": "Suspendisse tempor cursus:",
+            "responsibilities": [
+                "Phasellus id velit at erat mattis volutpat morbi consectetur maximus",
+                "Etiam tempor lorem in commodo vestibulum",
+                "Etiam sit amet condimentum risus vestibulum ac nisl eu massa condimentum",
+                "Suspendisse erat nulla facilisis vel nunc id vestibulum congue"
+            ]
+        },
+        {
+            "employer": "NUL Faucibus",
+            "duration": "Condimentum 2009 et Velit 2010",
+            "title": "Phasellus Condimentum Nunc",
+            "description": "Aenean luctus SEM lorem vitae mattis metus lacinia id fusce",
+            "responsibilityDescription": "Suspendisse tempor cursus:",
+            "responsibilities": [
+                "Pellentesque vel sapien sed sem",
+                "Mauris vitae ornare sapien id eleifend",
+                "Mattis c-onsequat urna in gravida"
+            ]
+        }
+    ],
+    "education": [
+        {
+            "name": "Aliquam Gravida Lacus",
+            "degree": "Sapien of Quisque",
+            "program": "Lorem Pellentesque nisl Sodales",
+            "date": "Tempor 2017",
+            "status": "Mattis"
+        },
+        {
+            "name": "Aliquam Gravida Lacus",
+            "degree": "Aenean of Quisque",
+            "program": "Mauris Nec - Aliquet Ante",
+            "date": "Tempor 2019",
+            "status": "Aliquam"
+        }
+    ],
+    "communityInvolvement": [
+        {
+            "type": "Suspendisse Rutrum",
+            "organization": "Mauris Fermentum Sem Non Volutpat",
+            "duration": "Dolor 2000 est Adipisci 2006",
+            "title": "Aenean Auctor",
+            "description": "Blandit Dolor, et eleifend massa consectetur ut cras odio sem 200 varius mattis erat.",
+            "details": [
+                "Vestibulum Lobortis nulla et Metus Blandit auctor Magna Dictum.",
+                "Quisque gravida auctor augue vel vulputate tellus dapibus eu maecenas et venenatis quam vitae Porttitor."
+            ]
+        },
+        {
+            "type": "Maecenas Sollicitudin",
+            "organization": "Ante Nulla in Laoreet Dapibus ex Vulputate-Enim Suspendisse",
+            "duration": "Lacus 2012 eu Tortor 2014",
+            "title": "Nullam-Tristique Feugiat: Risus nulla 2-posuere nec",
+            "description": "Phasellus placerat justo 12-24 quam, sed mattis eros dictum ac fusce, mi odio convallis vel, lorem sit amet dapibus convallis diam pellentesque suscipit dui id augue dictum id dapibus",
+            "details": [
+                "Donec sodales sapien eu arcu elementum vel pharetra nunc, suscipit nulla, suscipit neque metus sit amet dapibus dolor 24-180 fringilla.",
+                "Duis, hendrerit, magna odio 38 sed vehicula leo ultricies, eu Nullam id, dictum massa ut",
+                "Nullam eget orci sollicitudin tincidunt 60 mi sit amet porttitor purus. Pellentesque/eros mi.",
+                "Maecenas dapibus turpis urna eget, dignissim libero fermentum, quis quisque lacinia/eleifend varius, ut imperdiet arcu orci eget."
+            ]
+        },
+        {
+            "type": "Maecenas Sollicitudin",
+            "organization": "Ante Nulla in Laoreet Dapibus ex Vulputate-Enim Suspendisse",
+            "duration": "Dapibus 2008 to Fermentum 2012",
+            "title": "Vestibulum Ultricies: Arat Quis Egestas",
+            "description": "Aliquam, Pulvinar, Auctor justo suscipit blandit 200 praesent facilisis leo (18-30 eget lorem tempus).",
+            "details":[
+                "Aenean lobortis purus, mauris, vitae accumsan lorem interdum pretium"
+            ]
+        }
+    ]
+}
